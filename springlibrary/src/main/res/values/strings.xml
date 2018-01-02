@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SpringLibrary</string>
+    <array name="indicator_colors">
+        <item>@color/indicator_1</item>
+        <item>@color/indicator_2</item>
+        <item>@color/indicator_3</item>
+        <item>@color/indicator_4</item>
+    </array>
+</resources>
